@@ -12,9 +12,11 @@
 
 2. 3D 캐릭터 생성하기 <br>
    https://aframe.io/docs/0.5.0/introduction/models.html##sidebar
+   
    - glTF 살펴보기 <br> 
       https://www.khronos.org/gltf
-   - sketch Fab 사례 <br>
+   
+   - sketch Fab 사례 <br>
       https://sketchfab.com/models/294e79652f494130ad2ab00a13fdbafd
       
 
