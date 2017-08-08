@@ -19,7 +19,7 @@
    - sketch Fab 사례 <br>
       https://sketchfab.com/models/294e79652f494130ad2ab00a13fdbafd
       
-   - 3D 캐릭터 관련 이슈들 모음 <br>
+   - 3D 캐릭터 관련 이슈들 모음 <br>
       https://aframe.io/docs/0.6.0/introduction/models.html#i-don’t-see-my-model
 
 ~~~
